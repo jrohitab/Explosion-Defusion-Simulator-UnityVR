@@ -1,0 +1,994 @@
+fileFormatVersion: 2
+guid: e1bd68c73df888d4ba16a2ce4221dcec
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm10_006_LargeTree01A_A_ALBM
+    second: {fileID: 2800000, guid: 68df60f99448e2b44bf558b250eb388b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm10_006_LargeTree01A_A_NRMR
+    second: {fileID: 2800000, guid: 58ab490ddce4f844baac06ef99159bfd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm10_006_LargeTree01A_B_ALBM
+    second: {fileID: 2800000, guid: 4241b026e18f7b74ca42aa360e94ccd8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm10_006_LargeTree01A_B_NRMR
+    second: {fileID: 2800000, guid: 27cb57e5bd40c3b4ea0254bedb4c7fec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm10_011_roadTree_A_ALBM
+    second: {fileID: 2800000, guid: e187c21e0805ef043a2c2fb1ed6292d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm10_011_roadTree_A_NRMR
+    second: {fileID: 2800000, guid: fb3d9f4a518342d49b2c8c508201e026, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm10_011_roadTree_B_ALBM
+    second: {fileID: 2800000, guid: 901f78d3a175e0341bbf4bdec40d961f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm10_011_roadTree_B_NRMR
+    second: {fileID: 2800000, guid: d118de6d117bb864ca44fa73e82096f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm10_021_Plant02A_A_ALBM
+    second: {fileID: 2800000, guid: e716b3351626a3d4c95cfe638c34878b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm10_021_Plant02A_A_NRMR
+    second: {fileID: 2800000, guid: a22b45f8079ef844a84a37e3a1b7704d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm10_021_Plant02A_B_ALBM
+    second: {fileID: 2800000, guid: 7ffcecb046b945745a477d1bb98e2182, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm10_021_Plant02A_B_NRMR
+    second: {fileID: 2800000, guid: 648b1309041e3f94db832854bc9a9300, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm10_024_MiddlePlants01A_A_ALBM
+    second: {fileID: 2800000, guid: 778d23ab60051bd4e95dcf02443e3877, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm10_024_MiddlePlants01A_A_NRMR
+    second: {fileID: 2800000, guid: c5d84c2175f8f6a45bf229bacfb34ca3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm20_003_CleaningMop01A_A_ALBM
+    second: {fileID: 2800000, guid: 323757657c6f0824587d8b12b934af9e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm20_003_CleaningMop01A_A_NRMR
+    second: {fileID: 2800000, guid: efdde4589e8313d45836d523a902c73f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm20_005_GarbageBags02A_A_ALBM
+    second: {fileID: 2800000, guid: 8aae9b4ce630a0642b912dae2d97f4a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm20_005_GarbageBags02A_A_NRMR
+    second: {fileID: 2800000, guid: e5942c961e4a2a445ba42d6b1bfd8fb3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm21_009_FireExtinguisher01A_A_ALBM
+    second: {fileID: 2800000, guid: e149f83c00220ac45bb20c9270f8dfae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm21_009_FireExtinguisher01A_A_NRMR
+    second: {fileID: 2800000, guid: 7517148fb0a73ea4e81bc27e231934ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm22_028_AirConditioner01A_A_ALBM
+    second: {fileID: 2800000, guid: 4a5f63d2d145b62488b7e952c19e0a0d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm22_028_AirConditioner01A_A_NRMR
+    second: {fileID: 2800000, guid: 3c0419238cf8b414d94fbdd518f030ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm22_036_RectangleWaterTank01A_A_ALBM
+    second: {fileID: 2800000, guid: 6ae094bdc155ad44a989dc12d439ef50, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm22_036_RectangleWaterTank01A_A_NRMR
+    second: {fileID: 2800000, guid: 15f5354bff894fe4ca7dddb6f566a9ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm22_087_rooftopPartsB_A_ALBM
+    second: {fileID: 2800000, guid: dce29c9bf7421fb4191540f022ed1720, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm22_087_rooftopPartsB_A_NRMR
+    second: {fileID: 2800000, guid: cbe4306e2183d0047af093e26d4127a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm22_108_dumpster01A_A_ALBM
+    second: {fileID: 2800000, guid: 2e060f2a64c854548a01b370178869f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm22_108_dumpster01A_A_NRMR
+    second: {fileID: 2800000, guid: 7f20cb5c121e2094db0297ee6035d2c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm24_027_GasStationAir01A_A_ALBM
+    second: {fileID: 2800000, guid: 717dfdf57981af146b024859e9d75049, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm24_027_GasStationAir01A_A_NRMR
+    second: {fileID: 2800000, guid: 49f41529d6e1809499b2f82125c2b504, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_004_TrafficSafetyBullel01A_A_ALBM
+    second: {fileID: 2800000, guid: 72b7236414a5a0e4fa460bc5783cf9a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_004_TrafficSafetyBullel01A_A_NRMR
+    second: {fileID: 2800000, guid: 1b4a61eed8d47a1489d847ed676c5853, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_017_SafetyCone01A_A_ALBM
+    second: {fileID: 2800000, guid: c0b2697a7550b8a498d2164dca1e6742, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_017_SafetyCone01A_A_NRMR
+    second: {fileID: 2800000, guid: 5c55f02357b538843a3096b6fa398291, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_018_TankerPlane01A_A_ALBM
+    second: {fileID: 2800000, guid: 6a77a19dabc1c5b47bcc99c89880a212, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_018_TankerPlane01A_A_NRMR
+    second: {fileID: 2800000, guid: 548555f26dc4d6741a1edff661e09477, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_019_GasStationSignboard01A_A_ALBM
+    second: {fileID: 2800000, guid: 2971388f2d195ee4b836193533be8b2f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_019_GasStationSignboard01A_A_NRMR
+    second: {fileID: 2800000, guid: e6d9ab726cbabe34f96a3adcf748809b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_021_Bollard01A_A_ALBM
+    second: {fileID: 2800000, guid: 121baa743dc244a43ae2049dc256090e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_021_Bollard01A_A_NRMR
+    second: {fileID: 2800000, guid: 41abcaaa76780e64388e7964f4e1459d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_022_RoadSign01A_A_ALBM
+    second: {fileID: 2800000, guid: 950440858d58f284da4b4ad925133432, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_022_RoadSign01A_A_NRMR
+    second: {fileID: 2800000, guid: eb6a35d4cbb447549ad4c29276897476, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_023_GasStationPillar01A_A_ALBM
+    second: {fileID: 2800000, guid: 58b29d5e535934548a06787a64d12328, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_023_GasStationPillar01A_A_NRMR
+    second: {fileID: 2800000, guid: 888f47fb51d7cc9408ca8e1fa3f69f90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_027_GasStationSignBoard01A_A_ALBM
+    second: {fileID: 2800000, guid: f8ae83003de564f42a6ed080274ebc71, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_027_GasStationSignBoard01A_A_NRMR
+    second: {fileID: 2800000, guid: 6232d06284530da4b9c355c455af9116, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_033_Bollard02A_A_ALBM
+    second: {fileID: 2800000, guid: 381522a08b161ff4096309f997dfb0b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_033_Bollard02A_A_NRMR
+    second: {fileID: 2800000, guid: 1929adafecfed1342b4575bd6b3a410a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_034_SignBoard01A_A_ALBM
+    second: {fileID: 2800000, guid: 6f7200ea42847524d82c6fc3d749ecdd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_034_SignBoard01A_A_NRMR
+    second: {fileID: 2800000, guid: 7e856b995f21dcb418d910b1042f9dc6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_035_Manhole01A_A_ALBM
+    second: {fileID: 2800000, guid: 877db69bad2cbab4bbe19c818bc640ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_035_Manhole01A_A_NRMR
+    second: {fileID: 2800000, guid: fbfa519857bb2e44d8512fc125952ef6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_038_Telephonebox01A_A_ALBM
+    second: {fileID: 2800000, guid: 762e1e99b52a0d54f914f2ae645486b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_038_Telephonebox01A_A_NRMR
+    second: {fileID: 2800000, guid: 93db2482003f3a94e878dcbd7f2ae56f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_043_RacconCityBoard01A_A_ALBM
+    second: {fileID: 2800000, guid: e0b6e39b73e79554f88b873c071e1252, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_043_RacconCityBoard01A_A_NRMR
+    second: {fileID: 2800000, guid: e9534fedd18d6e448b6024c6d149b77b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_046_RoadFense01A_A_ALBM
+    second: {fileID: 2800000, guid: 94869146f37765245b9caf8a032e2385, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm25_046_RoadFense01A_A_NRMR
+    second: {fileID: 2800000, guid: 7f74fbc97cafddb44a860c262f729876, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm26_001_CityDumpster01A_A_ALBM
+    second: {fileID: 2800000, guid: 77b5f38a51aa5f9469d43c59fece15db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm26_001_CityDumpster01A_A_NRMR
+    second: {fileID: 2800000, guid: ec9c95e6d19a5f443bce5616973b727a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm26_006_WashSpace01A_A_ALBM
+    second: {fileID: 2800000, guid: d6e430b6a658b474491d051f75bbbc22, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm26_006_WashSpace01A_A_NRMR
+    second: {fileID: 2800000, guid: 4cee92569c88e6d42b23141a6ea4800f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm26_008_PackMaterial01A_A_ALBM
+    second: {fileID: 2800000, guid: 8ff80e968a9a5c444be7e8c36b026e68, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm26_008_PackMaterial01A_A_NRMR
+    second: {fileID: 2800000, guid: 41132f15488a1bf4eb628bda52e007f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm26_013_oilCan01A_A_ALBM
+    second: {fileID: 2800000, guid: e90e316ff4ce6444687b486231878af6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm26_013_oilCan01A_A_NRMR
+    second: {fileID: 2800000, guid: 9cb47ac06cd998045816be0f9c0de55f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm26_018_poles01A_ALBM
+    second: {fileID: 2800000, guid: 8a78be6d3d0def342a5f17e27ba66c26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm26_018_poles01A_NRMR
+    second: {fileID: 2800000, guid: f6b5e4bbd8f00514791f7d1afc41a8e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm26_027_BiconContainer01A_A_ALBM
+    second: {fileID: 2800000, guid: be0fcdba9e2b2d5488c3c20a4aefc40b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm26_027_BiconContainer01A_A_NRMR
+    second: {fileID: 2800000, guid: ce843f22058142f4e81d33849f4b3255, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm26_048_scaffold01_A_ALBM
+    second: {fileID: 2800000, guid: a5a4a136b08581847b4b6b68ee1996fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm26_048_scaffold01_A_NRMR
+    second: {fileID: 2800000, guid: e1c3eebd408b3e648abaa04290ab2e04, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm26_048_scaffold01_B_ALBM
+    second: {fileID: 2800000, guid: acc30a839c067be4eb1a3c305ebc340f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm26_048_scaffold01_B_NRMR
+    second: {fileID: 2800000, guid: c5acec5fc38e7fc48aaceab5bbcc6bba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm26_049_scaffold02_A_ALBM
+    second: {fileID: 2800000, guid: d50ad2faddbf9994b823949a14ac14c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm26_049_scaffold02_A_NRMR
+    second: {fileID: 2800000, guid: 2301011cab7f5ff40be03bf6f5428095, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm30_037_OfficeBlind01A_A_ALBM
+    second: {fileID: 2800000, guid: a84f88a1fe317a844b264ebf755c2665, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm30_037_OfficeBlind01A_A_NRMR
+    second: {fileID: 2800000, guid: 60edfa7a07bdc9b48bc465b4f8c67f13, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm30_095_TrashBoxA01A_A_ALBM
+    second: {fileID: 2800000, guid: 719181641c9e5ee418fc71018f4d0d12, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm30_095_TrashBoxA01A_A_NRMR
+    second: {fileID: 2800000, guid: 1e5ad9c4bf04776439b0883966f208a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm30_096_TrashBoxB01A_A_ALBM
+    second: {fileID: 2800000, guid: 2cb7a5e3f576fed41816e29d317e31c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm30_096_TrashBoxB01A_A_NRMR
+    second: {fileID: 2800000, guid: 062567a24f3bc4a48941c0947a757fb9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm30_150_PlasticSheet01A_A_ALBM
+    second: {fileID: 2800000, guid: 30db9bc042cbe384c855f4f827c40817, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm30_150_PlasticSheet01A_A_NRMR
+    second: {fileID: 2800000, guid: dae69cff47e7a3c428fcebb4a87dab54, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm30_189_HangSignboard01A_A_ALBM
+    second: {fileID: 2800000, guid: 3bbb375a27bebcc418a2decc744caf5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm30_189_HangSignboard01A_A_NRMR
+    second: {fileID: 2800000, guid: 8e5faacae75f8b64db9f9695b4755ae5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm31_007_PublicPhone01A_A_ALBM
+    second: {fileID: 2800000, guid: ce19911492ff4a4409f5563a487b1308, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm31_007_PublicPhone01A_A_NRMR
+    second: {fileID: 2800000, guid: ee3d032866c57154485110803508ebac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm31_095_IceBox01A_ASTS_A_ALBM
+    second: {fileID: 2800000, guid: d9ed8008bd95f194698b461ffa434898, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm31_095_IceBox01A_ASTS_A_NRMR
+    second: {fileID: 2800000, guid: d5f71c89d74645a4a918c6357c46b9ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm33_001_PatrolCar01A_A_ALBM
+    second: {fileID: 2800000, guid: 3d148d931f5bee245b7a0cb09d8b7a1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm33_001_PatrolCar01A_A_NRMR
+    second: {fileID: 2800000, guid: b3ef494f302b53d45bf3a4f24fb042e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm33_013_CarSedan01A_A_ALBM
+    second: {fileID: 2800000, guid: 7690a86d91666e7458468fa108ed4798, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm33_013_CarSedan01A_A_NRMR
+    second: {fileID: 2800000, guid: 12d926e55ca024d4bb1d7eb63f1acca3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm33_019_out_ALBM
+    second: {fileID: 2800000, guid: 4b6125d7afe725c43a84779dc6b98a01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm33_019_out_NRMR
+    second: {fileID: 2800000, guid: 2581f46bc9aa4664fb8f8c6708e6963e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm35_051_FluorescentLight03A_B_ALBM
+    second: {fileID: 2800000, guid: effbce0cfce87af4db903f5f81591f07, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm35_051_FluorescentLight03A_B_NRMR
+    second: {fileID: 2800000, guid: 6de4531440be8654abe0c56b0d8ac820, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm35_059_GasStationLight01A_A_ALBM
+    second: {fileID: 2800000, guid: d52f641fa3e6ba14f890e80b4f138d31, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm35_059_GasStationLight01A_A_NRMR
+    second: {fileID: 2800000, guid: 453c761f2f1c77b45bd887bf9fca8c78, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm40_061_ConvenienceDoor01A_A_ALBM
+    second: {fileID: 2800000, guid: 80a04bd9eaba3e3438b6ded35ec95b5f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm40_061_ConvenienceDoor01A_A_NRMR
+    second: {fileID: 2800000, guid: 0ae6fc8a93ee06c4cb2f5e6a4e19078c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm42_136_FuelNozzle01A_A_ALBM
+    second: {fileID: 2800000, guid: 934934622d3053043bf4c90f52365673, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm42_136_FuelNozzle01A_A_NRMR
+    second: {fileID: 2800000, guid: c2885aa633852bb45a059fb9e3ade0ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm42_136_FuelNozzle01A_B_ALBM
+    second: {fileID: 2800000, guid: cfa8467335bae624ebb9b416c74aa8c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm42_136_FuelNozzle01A_B_NRMR
+    second: {fileID: 2800000, guid: 13b01b91417d35c4c86d9708acc69e1a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm48_503_GasStationTape01A_A_ALBM
+    second: {fileID: 2800000, guid: 2fad76bb774141642a3366a9138218e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm48_503_GasStationTape01A_A_NRMR
+    second: {fileID: 2800000, guid: 8e236fd28eef0064e9d1936cf17b3b56, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm60_123_HighwayRoadSign01A_A_ALBM
+    second: {fileID: 2800000, guid: 5e2567afe81f17f469f5bcbc31b45533, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sm60_123_HighwayRoadSign01A_A_NRMR
+    second: {fileID: 2800000, guid: fe80b308dc76e094dba63659bf839422, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_ConveniSteel_ALBM
+    second: {fileID: 2800000, guid: aec11771e105b9646969101c2476657c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_ConveniSteel_NRMR
+    second: {fileID: 2800000, guid: 13ee693f7c4e7b342b16ca82f7bd38ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_ConvenienceCelling_ALBM
+    second: {fileID: 2800000, guid: 0dd2cf3237134674fa32da0498df475e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_ConvenienceCelling_NRMR
+    second: {fileID: 2800000, guid: d4961f0788d7a624585dcb195dbca23d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_ConvenienceFloor_ALBM
+    second: {fileID: 2800000, guid: 45c2bc77ff99dd144b0f17c29c02de61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_ConvenienceFloor_NRMR
+    second: {fileID: 2800000, guid: 6478ad653df6a4f4e86b8c72c312e003, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_ConveniencePosters_A_ALBM
+    second: {fileID: 2800000, guid: 618a35b02d9dde54fa3cd9309fc26d16, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_ConveniencePosters_A_NRMR
+    second: {fileID: 2800000, guid: 0f01548bb22bc8d4dae4f6008979933e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_ConvenienceSigns01_ALBM
+    second: {fileID: 2800000, guid: d77d3feef456c1949a6bd395cc5be1da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_ConvenienceSigns01_NRMR
+    second: {fileID: 2800000, guid: 7ca2943c781008e47b95683d70577718, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_ConvenienceWall_ALBM
+    second: {fileID: 2800000, guid: bbfcb977ab236cd4bbd25f676351c1eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_ConvenienceWall_NRMR
+    second: {fileID: 2800000, guid: ca63fca6d4298234181e8f3ce41ed075, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_ConviniPaper_ALBM
+    second: {fileID: 2800000, guid: 9fc12355634b7824b8d45a72ceac6be3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_ConviniPaper_NRMR
+    second: {fileID: 2800000, guid: 344201e5fcf94414f8cd910fe5acccb4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_CorridorCeilling_ALBM
+    second: {fileID: 2800000, guid: e0782b0ff036b6746b7085933be4da38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_CorridorCeilling_NRMR
+    second: {fileID: 2800000, guid: 3db7b861bb743884db49e7ef96225234, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_CorridorWall_ALBM
+    second: {fileID: 2800000, guid: 4f18c7277c0a415478a53b443d1de32e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_CorridorWall_NRMR
+    second: {fileID: 2800000, guid: f516e3ad4b14cfc42842ebd5d4d5c01b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_DoorSteel01_ALBM
+    second: {fileID: 2800000, guid: 3d2201dbb12cf914c94794b41e37ffb3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_DoorSteel01_NRMR
+    second: {fileID: 2800000, guid: 12baeca74bdaad04da482482a268fa13, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_FloorWater01_ALBM
+    second: {fileID: 2800000, guid: fc4c211e2088cd14faf71bd445e18852, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_FloorWater01_NRMR
+    second: {fileID: 2800000, guid: e32fa9b8698031247966b6b20fe96119, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_GasStaionDecal_ALBM
+    second: {fileID: 2800000, guid: 13a1ff904a87fad45a22df41758c3cf1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_GasStaionDecal_NRMR
+    second: {fileID: 2800000, guid: 8854a3311f8b5534a8559d1ac26995dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_GasStandCeilling_ALBM
+    second: {fileID: 2800000, guid: f687212e6e336e5419f9855c4e834525, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_GasStandCeilling_NRMR
+    second: {fileID: 2800000, guid: 7f6e0b7941cff80468753a020b5ed1b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_GasStandGround01_ALBM
+    second: {fileID: 2800000, guid: 221feca73656d8f449ddb7554862ad5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_GasStandGround01_NRMR
+    second: {fileID: 2800000, guid: 6ba1af069062c734cb65934c266632bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_GasStationPipeline01_ALBM
+    second: {fileID: 2800000, guid: 652910debb6b1ee40833c50cbf029914, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_GasStationPipeline01_NRMR
+    second: {fileID: 2800000, guid: 9d97de457bbdd6146afb384ec0367471, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_Grass01A_ALBM
+    second: {fileID: 2800000, guid: dafb9b7968735fe4cbc1bd63d126751d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_Grass01A_NRMR
+    second: {fileID: 2800000, guid: f461ddada0346724898725bf9cb72b4e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_GroundBorder00_ALBM
+    second: {fileID: 2800000, guid: 6092bdb14b0f38347be813d24cafe093, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_GroundBorder00_NRMR
+    second: {fileID: 2800000, guid: 956c83bd5411eda489f51774c06a82ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_ToiletFloor_ALBM
+    second: {fileID: 2800000, guid: be57384c6d92ee64db08e48ea22965d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_ToiletFloor_NRMR
+    second: {fileID: 2800000, guid: 41f8e9bf8a28d5f4480a97d84d921079, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_WarehouseWall_ALBM
+    second: {fileID: 2800000, guid: 94063dfe329873742b53362e789deef3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_WarehouseWall_NRMR
+    second: {fileID: 2800000, guid: 8bc42e5265d301245a5faac495565f65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_cutPlant_ALBM
+    second: {fileID: 2800000, guid: 928fc806691de994b871025f91c26368, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_decalRoadBorder00_ALBM
+    second: {fileID: 2800000, guid: 2be316f3bca5b5448a991c9d1cda49c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_decalRoadBorder00_NRMR
+    second: {fileID: 2800000, guid: 28ff7cd32ebce994181c59c82527e333, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_townAsphalt00_ALBM
+    second: {fileID: 2800000, guid: e8deb6ae1cad96a45ba0bf99805831bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_townAsphalt00_NRMR
+    second: {fileID: 2800000, guid: e93b227c9a3f56644b66a509da5da197, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_townBuild06_ALBM
+    second: {fileID: 2800000, guid: 8cfa8424c66adb142a41f4a750625dc9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_townBuild06_NRMR
+    second: {fileID: 2800000, guid: 7d374cd96f60b3841b82b46920fb091f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_townDecal05_ALBM
+    second: {fileID: 2800000, guid: 9bf36e9cc06cd6f449a5e9ca3deb1845, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_townDecal05_NRMR
+    second: {fileID: 2800000, guid: 4e71e75a86fc1344c85600139d4347bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_townDiner03_ALBM
+    second: {fileID: 2800000, guid: 5b8dab8c81ed3cf478c0f3303b59baae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_townDiner03_NRMR
+    second: {fileID: 2800000, guid: 193e13bd4860e9e479c5611df73c9d98, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_townShopAwning00_ALBM
+    second: {fileID: 2800000, guid: 20e82820a779e4141a851f5b9b8a5e9e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st1_townShopAwning00_NRMR
+    second: {fileID: 2800000, guid: d6b515c65269f844e93f186d32059dda, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st2_Breaker01_ALBM
+    second: {fileID: 2800000, guid: 9448083ddcd049c4a9e9b6cfeb3f1aec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st2_Breaker01_NRMR
+    second: {fileID: 2800000, guid: c763c1136eb12b240aef92d4ee25d53e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st2_police1fLeftDirt01_ALBM
+    second: {fileID: 2800000, guid: 555c5771ece5feb4fb34a82a93d0fadf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st2_police1fLeftDirt01_NRMR
+    second: {fileID: 2800000, guid: 34bde639e47d10f4584bbf97060dfe2e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st2_police1fLeftDoor01_ALBM
+    second: {fileID: 2800000, guid: 8a332489e0e01e14695055376ae567a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st2_police1fLeftDoor01_NRMR
+    second: {fileID: 2800000, guid: 44f31191ad3361f4ea821e798498f978, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st2_police1fLeftPipeline01_ALBM
+    second: {fileID: 2800000, guid: 699849cc1e2284e4e98594feb6187f06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st2_police1fLeftPipeline01_NRMR
+    second: {fileID: 2800000, guid: f122e5b18a6957c42879ecac45fae545, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st2_police2fLeftOther01_ALBM
+    second: {fileID: 2800000, guid: d8c9bdad5e20605438d4ed4dda83bcab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st2_police2fLeftOther01_NRMR
+    second: {fileID: 2800000, guid: 808e1f389d3c8bb40b6ca643086bb77b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st3_sTPEastWindow01_ALBM
+    second: {fileID: 2800000, guid: 95c82c5721ceb174caaf7bcd5720265b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st3_sTPEastWindow01_NRMR
+    second: {fileID: 2800000, guid: 8b45f83bd296c194198392bee50972aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st3_sTPWestFloor01_ALBM
+    second: {fileID: 2800000, guid: d82f153f612f1c34886039de06df66d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st3_sTPWestFloor01_NRMR
+    second: {fileID: 2800000, guid: 8d6f139aad6970243a4c0feeb2ffb8c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st5_LaboWhiteWall01_ALBM
+    second: {fileID: 2800000, guid: cdb1e369efcbd914eba2106715128378, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: st5_LaboWhiteWall01_NRMR
+    second: {fileID: 2800000, guid: c87a3690bdb022e46859f764c950f5b8, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
