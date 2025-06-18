@@ -25,7 +25,7 @@ Prerequisites
 
 Installation
 1. Clone the repo:
-git clone https://github.com/yourusername/vr-bomb-defusal-simulator.git
+git clone https://github.com/jrohitab/vr-bomb-defusal-simulator.git
 2. Open the project in Unity.
 3. Set up your VR headset (use OpenXR settings in Unity).
 4. Press Play in the Unity Editor or build to your headset.
